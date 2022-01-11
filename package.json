@@ -1,0 +1,25 @@
+{
+  "name": "20220211",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaomingyuan1999/20220111.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaomingyuan1999/20220111/issues"
+  },
+  "homepage": "https://github.com/gaomingyuan1999/20220111#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.0",
+    "less": "^4.1.2"
+  }
+}
